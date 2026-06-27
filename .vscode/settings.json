@@ -1,3 +1,7 @@
 {
-    "azureAutomation.directory.basePath": ""
+    "azureAutomation.directory.basePath": "",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.mcpProjectType": "SelfHostedMcpServer"
 }
